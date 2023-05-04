@@ -1,0 +1,23 @@
+.containerBottom{
+    border: 1px solid white;
+    padding-top: 20px;
+    
+}
+#main{
+    background-color: grey;
+    height: 80px;
+    width: 800px;
+    border-radius: 3%;
+
+}
+#person{
+    height: 30px;
+    width: 90px;
+    padding-left: 50px;
+}
+#trash{
+    height: 30px;
+    width: 90px;
+    padding-top: 2px;
+    
+}

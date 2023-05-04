@@ -1,0 +1,21 @@
+
+.containerTop{
+    border: 1px solid white;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    
+
+}
+#contact{
+    background-color: gray;
+    height: 330px;
+    width: 800px;
+    box-shadow: 2%;
+    text-align: center;
+    border-radius: 3%;
+    
+}
+#name{
+    padding-top: 20px;
+    
+}
